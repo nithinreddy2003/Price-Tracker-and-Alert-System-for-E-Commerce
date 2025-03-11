@@ -8,7 +8,7 @@ bcrypt==4.0.1
 plotly==5.18.0
 pandas==2.1.4
 numpy==1.26.2
-Pillow==10.3.0  # Precompiled version
+Pillow<10  # Updated to be compatible with streamlit
 
 # Web Scraping and Automation
 selenium==4.15.2
