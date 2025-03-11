@@ -1,0 +1,27 @@
+# Core Libraries
+streamlit==1.26.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+pymongo==4.5.0
+python-dotenv==1.0.0
+bcrypt==4.0.1
+plotly==5.18.0
+pandas==2.1.4
+numpy==1.26.2
+
+# Web Scraping and Automation
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Email Notifications
+smtplib==0.0.1
+
+# Date and Time Handling
+python-dateutil==2.8.2
+
+# Streamlit Extensions
+streamlit-option-menu==0.3.6
+
+# Additional Utilities
+lxml==4.9.3
+urllib3==2.0.7
