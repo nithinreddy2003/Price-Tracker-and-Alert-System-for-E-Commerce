@@ -31,15 +31,3 @@ The **Price-Tracker-and-Alert-System-for-E-Commerce** is an advanced tool design
 
 ---
 
-## 📋 Installation Instructions
-
-### Prerequisites
-1. **Python 3.8 or higher**: Install Python from [python.org](https://www.python.org/).
-2. **MongoDB Atlas Account**: Create a free account at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
-3. **Gmail Account**: For sending email notifications.
-
-### Steps
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/multi-platform-price-tracker.git
-   cd multi-platform-price-tracker
