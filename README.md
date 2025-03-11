@@ -1,7 +1,7 @@
 # Price-Tracker-and-Alert-System-for-E-Commerce
 
 
-![Project Logo](D:/All Documents/Projects/ECOMM/Logo.png)
+![Project Logo](Logo.png)
 
 ## 📝 Description
 The **Price-Tracker-and-Alert-System-for-E-Commerce** is an advanced tool designed to simplify and enhance the online shopping experience by automating the process of tracking product prices across multiple e-commerce platforms. This system leverages **web scraping techniques** to extract real-time data on product prices, availability, discounts, and ratings from popular online stores such as **Amazon, Flipkart, AJIO, and Shopsy**. The collected data is stored in a **cloud-based database**, enabling users to monitor price changes over time and make informed purchasing decisions.
